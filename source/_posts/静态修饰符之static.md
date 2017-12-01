@@ -2,6 +2,7 @@
 title: 静态修饰符之static
 tags:
   - Java
+date: 2017-04-16
 ---
 
 

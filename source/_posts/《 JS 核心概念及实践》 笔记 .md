@@ -3,6 +3,7 @@ title: 《 JS 核心概念及实践》 笔记
 tags:
   - JavaScript
   - 原型
+date: 2017-04-23
 ---
 
 ## 1. 类型判断和 “instanceof”

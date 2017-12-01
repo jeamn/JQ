@@ -1,7 +1,7 @@
 # Icon
 favicon: /jeamn.png
 # SEO
-keywords: Hexo, Gruntjs, Nodejs, Reactjs, Vuejs
+keywords: Hexo, javascript
 # Header
 page_background: http://ww1.sinaimg.cn/large/8b50d584gy1ffcpdjp9vtj211a0ou79p.jpg
 page_menu_button: dark
@@ -10,8 +10,8 @@ post_menu_button: light
 title_plancehold: 随笔
 author:
   head: http://ww1.sinaimg.cn/large/8b50d584gy1ffcq23v5puj20cg0chjsj.jpg
-  signature: Life is full of lies.
-navication:
+  signature: 罗斯柴尔德之密西西比拾棉者
+  navication:
   - name: Github
     link: https://github.com/Jeamn
   - name: E-mail

@@ -2,6 +2,7 @@
 title: 对bind函数的理解----this指针的指向问题
 tags:
   - JavaScript
+date: 2017-06-01
 ---
 bind一个最主要的用法就是绑定。当我们需要解决如何在另一个函数中保持this上下文，我们就需要bind( )了。    
 
